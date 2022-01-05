@@ -39,3 +39,12 @@ a
 	border-radius: 10px;
 	margin-bottom: 10px;
 }
+
+#HNOI{
+	text-align: center;
+	color: aliceblue;
+	background-color: black;
+	border-style: ridge;
+	border-width: 25px;
+	border-color: blue;
+}
